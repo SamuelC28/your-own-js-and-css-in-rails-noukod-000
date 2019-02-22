@@ -4,4 +4,3 @@ function hideWhenClicked(event) {
   $hidden.hide()
   debugger
 }
-
