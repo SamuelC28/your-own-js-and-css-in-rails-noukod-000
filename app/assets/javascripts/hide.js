@@ -1,6 +1,4 @@
 
-function hideWhenClicked(event) {
-  const $hidden = $(event.target)
-  $hidden.hide()
-  debugger
+function hideWhenClicked() {
+  const $hidden=$("#hide_this").hide()
 }
