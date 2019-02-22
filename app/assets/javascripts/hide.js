@@ -5,4 +5,3 @@ function hideWhenClicked(event) {
   debugger
 }
 
-$('#hide_this').click(hideWhenClicked)
