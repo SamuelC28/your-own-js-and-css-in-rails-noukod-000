@@ -1,7 +1,0 @@
-.error {
-  color: red;
-}
-
-.b-background {
-  background-color: grey;
-}
